@@ -2,8 +2,6 @@
 
 This repository contains selected coursework and applied projects from the **Data Mining and Analytics (COU 08104)** module at the Dar es Salaam Institute of Technology. The assignments demonstrate an end-to-end workflow for turning raw data into useful evidence: data preparation, exploratory analysis, statistical modelling, unsupervised learning, pattern discovery, recommendation, and interpretation.
 
-**Registration number:** 230242452779
-
 ## Highlights
 
 - Exploratory data analysis and correlation analysis
