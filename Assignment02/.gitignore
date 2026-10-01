@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution and build files
+build/
+dist/
+*.egg-info/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment and editor files
+.env
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
